@@ -5,8 +5,5 @@
       "src": "turbo.json",
       "use": "@vercel/turbo"
     }
-  ],
-  "output": {
-    "transient": false
-  }
+  ]
 }
