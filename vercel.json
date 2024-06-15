@@ -2,8 +2,8 @@
   "version": 2,
   "builds": [
     {
-      "src": "turbo.json",
-      "use": "@vercel/turbo"
+      "src": "package.json",
+      "use": "@vercel/node"
     }
   ]
 }
