@@ -23,7 +23,7 @@ function JWTPage() {
         router.replace('/start');
       }
     },
-    [login],
+    [login, router],
   );
 
   useEffect(() => {
